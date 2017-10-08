@@ -24,7 +24,12 @@ nebo použijte operátor dvojtečka pro výběr
 prijmy[1:3,1]
 ```
 
-Pak bych ukázal funkci sort
+Sloupce lze vybrat i pomocí názvu sloupce:
+```R
+prijmy$plat
+```
+
+Pak vyzkoušejte funkci sort:
 ```R
 sort(clovek)
 ```
@@ -60,4 +65,9 @@ nebo kdyby mezi tím zapomeneme vektor plat, tak můžeme vzít sloupeček z dat
 prijmy[order(prijmy[,2], decreasing=T),]
 prijmy[order(prijmy[,2]),]
 ```
+
+Nyní vše vyzkoušíme na výsledcích voleb do parlamentu 2013:
+
+ifile <- read.table("https://raw.githubusercontent.com/spiwokv/statistickaanalysadat/master/lookingatdata/volby2013praha.txt",
+                    sep=";", header=T, dec=",")
 
