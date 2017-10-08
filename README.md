@@ -1,2 +1,2 @@
-# statistickaanalysadat
-Statistická analýza dat
+# Statistická analýza dat
+
