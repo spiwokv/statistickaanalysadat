@@ -29,7 +29,7 @@ Sloupce lze vybrat i pomocí názvu sloupce:
 prijmy$plat
 ```
 
-Pak vyzkoušejte funkci sort:
+Pak vyzkoušejte funkci `sort`:
 ```R
 sort(clovek)
 ```
@@ -43,7 +43,7 @@ sort(clovek, decreasing=T)
 sort(plat, decreasing=T)
 ```
 
-Pokud chce uživatel seřadit celý data frame podle jednoho sloupce, může to udělat takhle:
+Pokud chce uživatel seřadit celý dataframe podle jednoho sloupce, může to udělat takhle:
 když by chtěl vytisknou nejdřiv třeba třetí, pak pátý a pak první řádek tabulky, udělal by to
 takhle:
 ```R
@@ -74,7 +74,7 @@ ifile <- read.table("https://raw.githubusercontent.com/spiwokv/statistickaanalys
 ```
 
 Je možné si vytisknout celý obsah napsáním `ifile`, ale protože se jedná o velký soubor,
-je lepší použít funkce head nebo tail:
+je lepší použít funkce `head` nebo `tail`:
 
 ```R
 head(ifile)
