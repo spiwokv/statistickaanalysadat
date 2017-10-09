@@ -1,0 +1,682 @@
+#https://volby.cz/pls/ps2013/ps111?xjazyk=CZ&xkraj=1&xstrana=0&xv=1&xt=1
+cislo;strana;porc;jmeno;vek;nav;pol;abs;rel;man;porman
+15;SPOZ;23;Abt Jaroslav;40;SPOZ;SPOZ;8;0,14;-;-
+1;»SSD;3;Ad·mek Frantiöek Bc.;58;»SSD;»SSD;2492;3,01;*;4
+16;OB»_2011;10;Ad·mek Karel Ing.;61;OB»_2011;BEZPP;12;2,63;-;-
+16;OB»_2011;1;Ad·mek LudvÌk;58;OB»_2011;OB»_2011;33;7,25;-;-
+16;OB»_2011;11;Ad·mek Luk·ö Bc.;28;OB»_2011;OB»_2011;12;2,63;-;-
+4;TOP 09;6;Adamov· MarkÈta Ing.;29;TOP 09;TOP 09;3626;2,68;*;6
+21;KS»M;11;Ambroû Pavel;55;KS»M;KS»M;317;0,63;-;9
+15;SPOZ;16;Arbesov· Sandra Ing.;30;SPOZ;SPOZ;28;0,51;-;-
+22;LEV 21;3;Babinec Bohdan MUDr. CSc.;69;LEV 21;LEV 21;43;11,43;-;-
+20;ANO 2011;1;Babiö Andrej Ing.;59;ANO 2011;ANO 2011;18955;19,62;*;1
+5;HLVZHŸRU;35;Bakal·¯ Robert Bc.;34;HLVZHŸRU;PSZ;17;0,65;-;-
+3;Pir·ti;20;Bakovsk˝ Pavel;21;Pir·ti;Pir·ti;314;1,47;-;-
+1;»SSD;35;Balab·n Miloö PhDr. Ph.D.;51;»SSD;»SSD;1105;1,33;-;31
+23;SZ;33;Barta Jan;28;SZ;BEZPP;104;0,27;-;-
+24;K»;2;B·rta Jan Ing. arch.;71;K»;K»;40;3,31;-;-
+10;Ss»R;3;BartoÚov· P·lkov· Irena Mgr.;45;Ss»R;BEZPP;31;4,20;-;-
+3;Pir·ti;1;Bartoö Ivan PhDr. PhD;33;Pir·ti;Pir·ti;3772;17,68;-;-
+5;HLVZHŸRU;15;B·rtov· Petra Mgr.;49;HLVZHŸRU;SBB;49;1,89;-;-
+6;ODS;13;Bartovsk˝ Tom·ö Mgr.;35;ODS;ODS;544;0,77;-;9
+11;KDU-»SL;32;Bart˘öek Jan Mgr.;49;KDU-»SL;KDU-»SL;122;0,38;-;31
+10;Ss»R;16;BaubÌn Petr Ing.;48;Ss»R;Ss»R;7;0,94;-;-
+13;Suveren.;35;Bayerov· Veronika;43;Suveren.;BEZPP;2;0,25;-;-
+12;PB;13;BeËka Jan;35;PB;BEZPP;5;0,40;-;-
+9;ZmÏna;17;Bedn·¯ Jan;34;ZmÏna;HS;24;0,54;-;-
+2;SvobodnÌ;3;Bedn·¯ Miloslav prof. PhDr. CSc.;65;SvobodnÌ;SvobodnÌ;1249;5,69;-;-
+15;SPOZ;13;Bejlovec Ji¯Ì Bc.;23;SPOZ;SPOZ;81;1,49;-;-
+13;Suveren.;18;Beladov· Eva;52;Suveren.;BEZPP;8;1,00;-;-
+6;ODS;20;Bellu Alexander Bc.;26;ODS;ODS;703;0,99;-;16
+1;»SSD;9;BeÚ·k David Mgr. DiS.;34;»SSD;»SSD;2275;2,75;-;6
+24;K»;33;BenËok Michal;62;K»;BEZPP;28;2,32;-;-
+6;ODS;10;Benda Marek;44;ODS;ODS;5336;7,58;*;4
+20;ANO 2011;32;Bendov· Jarmila Ing.;48;ANO 2011;ANO 2011;327;0,33;-;27
+17;⁄svit;20;Benek VÌtÏzslav;51;⁄svit;BEZPP;58;0,30;-;19
+16;OB»_2011;4;Beneö Frantiöek;54;OB»_2011;OB»_2011;15;3,29;-;-
+21;KS»M;18;Beneö Frantiöek Ing. CSc.;69;KS»M;KS»M;738;1,47;-;16
+16;OB»_2011;8;Beneöov· Petra Ing.;29;OB»_2011;OB»_2011;24;5,27;-;-
+12;PB;2;Ben˝öek Ji¯Ì;23;PB;BEZPP;36;2,93;-;-
+23;SZ;24;Ben˝ökov· Helena;32;SZ;SZ;181;0,47;-;-
+16;OB»_2011;3;Beranov· Monika;51;OB»_2011;OB»_2011;20;4,39;-;-
+24;K»;31;Bernard Darius;47;K»;BEZPP;4;0,33;-;-
+22;LEV 21;1;Bernardov· Tereza Bc.;31;LEV 21;LEV 21;18;4,78;-;-
+9;ZmÏna;12;BiË·kov· Vlasta;39;ZmÏna;KH;51;1,15;-;-
+15;SPOZ;9;BÌlek VÌtÏzslav;68;SPOZ;SPOZ;34;0,62;-;-
+13;Suveren.;4;Blaöko Marek Ing.;37;Suveren.;BEZPP;27;3,38;-;-
+6;ODS;11;Blaûek Frantiöek;48;ODS;ODS;891;1,26;-;7
+20;ANO 2011;17;Bockov· Romana Ing.;46;ANO 2011;ANO 2011;509;0,52;-;12
+24;K»;5;Bohdaneck˝ ZdenÏk;36;K»;K»;15;1,24;-;-
+4;TOP 09;34;Bonhomme Hankeov· Zuzana MUDr. MIB;54;TOP 09;TOP 09;1139;0,84;-;27
+22;LEV 21;13;Bouzek Petr Ing. MUDr.;52;LEV 21;LEV 21;5;1,32;-;-
+24;K»;23;Brabec Ji¯Ì;64;K»;BEZPP;4;0,33;-;-
+17;⁄svit;3;Brandeisov· SoÚa;70;⁄svit;BEZPP;413;2,20;-;2
+24;K»;20;Brant Petr;63;K»;BEZPP;2;0,16;-;-
+15;SPOZ;8;Brettl VojtÏch PhDr.;35;SPOZ;SPOZ;108;1,99;-;-
+21;KS»M;16;Briardov· Helena PhDr.;66;KS»M;KS»M;350;0,70;-;14
+16;OB»_2011;6;Brichta Aleö Ing.;54;OB»_2011;BEZPP;94;20,65;-;-
+5;HLVZHŸRU;24;Brot·nek Tom·ö Bc.;35;HLVZHŸRU;BEZPP;11;0,42;-;-
+15;SPOZ;21;Brunner Jan;63;SPOZ;SPOZ;55;1,01;-;-
+11;KDU-»SL;12;Bruthans Jan MUDr. CSc., FESC;65;KDU-»SL;KDU-»SL;724;2,25;-;11
+24;K»;28;B¯ezina Karel;40;K»;BEZPP;9;0,74;-;-
+18;DSSS;3;Bubla Ji¯Ì Mgr.;41;DSSS;DSSS;53;2,14;-;-
+23;SZ;25;BudÌn Luk·ö Mgr.;34;SZ;SZ;263;0,69;-;-
+18;DSSS;2;Budz Ladislav;37;DSSS;DSSS;95;3,84;-;-
+24;K»;27;BukaËov· Irena PhDr.;64;K»;BEZPP;19;1,57;-;-
+10;Ss»R;21;Burger Daniel;36;Ss»R;KONS;14;1,89;-;-
+11;KDU-»SL;25;Burgr Petr;60;KDU-»SL;KDU-»SL;245;0,76;-;24
+9;ZmÏna;9;Burian Jan Ing. Ph.D.;39;ZmÏna;BEZPP;91;2,06;-;-
+23;SZ;10;Cabrnochov· Ivana Mgr.;39;SZ;SZ;1138;3,00;-;-
+12;PB;3;Cafourek Josef;65;PB;BEZPP;20;1,63;-;-
+4;TOP 09;30;Cagaöov· Jana Bc.;28;TOP 09;TOP 09;884;0,65;-;23
+5;HLVZHŸRU;3;Caldr Pavel;36;HLVZHŸRU;BEZPP;142;5,48;-;-
+12;PB;1;Cibulka Petr;62;PB;PB;159;12,97;-;-
+10;Ss»R;28;Cihelka Josef;69;Ss»R;Ss»R;3;0,40;-;-
+2;SvobodnÌ;13;Csirik Roman Ing.;42;SvobodnÌ;SvobodnÌ;50;0,22;-;-
+24;K»;13;»adil MatÏj;27;K»;K»;14;1,16;-;-
+17;⁄svit;24;»apek Ji¯Ì;36;⁄svit;BEZPP;103;0,54;-;23
+6;ODS;3;»ernochov· Jana Mgr.;40;ODS;ODS;8644;12,28;*;3
+12;PB;17;»ernota Miroslav;55;PB;BEZPP;1;0,08;-;-
+17;⁄svit;6;»ervenka David Mgr.;31;⁄svit;BEZPP;500;2,66;-;5
+20;ANO 2011;9;»ervÌËkov· Monika Ing.;46;ANO 2011;ANO 2011;1209;1,25;-;4
+13;Suveren.;15;»Ìla Ivan;61;Suveren.;Suveren.;4;0,50;-;-
+11;KDU-»SL;6;»iûinsk˝ Jan Mgr.;35;KDU-»SL;KDU-»SL;5707;17,80;-;1
+21;KS»M;19;»un·tov· Jana Ing.;68;KS»M;KS»M;428;0,85;-;17
+6;ODS;21;Damaöka David Ing. arch. Ph.D.;43;ODS;ODS;976;1,38;-;17
+10;Ss»R;33;Danda Miloslav;67;Ss»R;BEZPP;4;0,54;-;-
+10;Ss»R;25;Danda Tom·ö;61;Ss»R;Ss»R;13;1,76;-;-
+11;KDU-»SL;34;Daniel Josef;48;KDU-»SL;KDU-»SL;64;0,19;-;33
+3;Pir·ti;6;DÈrer Ivan Ing.;46;Pir·ti;BEZPP;416;1,95;-;-
+9;ZmÏna;3;Dienstbierov· Ji¯ina Ing.;58;ZmÏna;BEZPP;287;6,52;-;-
+22;LEV 21;4;Dimitrov Kosta Ing.;64;LEV 21;LEV 21;6;1,59;-;-
+4;TOP 09;20;Dlouh˝ Martin doc. Ing. Mgr. Dr., MSc;43;TOP 09;TOP 09;3187;2,35;-;13
+18;DSSS;30;Dob¯Ìchovsk˝ Marek;24;DSSS;BEZPP;3;0,12;-;-
+2;SvobodnÌ;25;Dohnal Tom·ö Ing.;30;SvobodnÌ;SvobodnÌ;62;0,28;-;-
+21;KS»M;2;Dolejö Ji¯Ì Ing.;52;KS»M;KS»M;8219;16,44;*;1
+23;SZ;23;Dolejöek »estmÌr Bc.;30;SZ;SZ;596;1,57;-;-
+4;TOP 09;29;Doleûal Marek Ing.;43;TOP 09;TOP 09;347;0,25;-;22
+15;SPOZ;26;DoubÏtov· Martina Mgr.;43;SPOZ;BEZPP;29;0,53;-;-
+2;SvobodnÌ;29;Douöa Jaroslav;48;SvobodnÌ;SvobodnÌ;30;0,13;-;-
+12;PB;32;Dr·bek Pavel;53;PB;BEZPP;6;0,48;-;-
+11;KDU-»SL;16;Dr·pal Dan;64;KDU-»SL;KDU-»SL;1015;3,16;-;15
+6;ODS;16;Dr·ûn˝ Ivo JUDr.;49;ODS;ODS;678;0,96;-;12
+23;SZ;4;Drhov· Zuzana Ing. Ph.D.;50;SZ;SZ;1712;4,51;-;-
+17;⁄svit;11;Dudjak Aleö Ing.;34;⁄svit;BEZPP;118;0,62;-;10
+23;SZ;30;Duch·Ëkov· Chotkov· Pavla Mgr.;33;SZ;SZ;137;0,36;-;-
+12;PB;4;Durdil Miroslav;64;PB;BEZPP;39;3,18;-;-
+17;⁄svit;18;Dusilov· Ivana Ing.;48;⁄svit;BEZPP;232;1,23;-;17
+22;LEV 21;25;Duökov· Blanka MUDr.;59;LEV 21;BEZPP;4;1,06;-;-
+18;DSSS;33;Dvorsk· Eva;45;DSSS;BEZPP;16;0,64;-;-
+15;SPOZ;14;Dvo¯·Ëkov· Monika Ing.;31;SPOZ;SPOZ;41;0,75;-;-
+22;LEV 21;14;Dvo¯·k Ivan;57;LEV 21;LEV 21;12;3,19;-;-
+15;SPOZ;20;Dvo¯·kov· Iveta;45;SPOZ;SPOZ;22;0,40;-;-
+13;Suveren.;36;Dykast Frantiöek;63;Suveren.;BEZPP;6;0,75;-;-
+2;SvobodnÌ;21;Effenberger Jan;68;SvobodnÌ;SvobodnÌ;70;0,31;-;-
+10;Ss»R;20;Eisenhauer Petr;38;Ss»R;Ss»R;24;3,25;-;-
+9;ZmÏna;11;Elexa Marek;40;ZmÏna;"Z";7;0,15;-;-
+3;Pir·ti;15;Esner Vladislav Tobias;31;Pir·ti;Pir·ti;59;0,27;-;-
+21;KS»M;22;Exnerov· Suzana;69;KS»M;BEZPP;228;0,45;-;20
+17;⁄svit;35;Fabian V·clav;37;⁄svit;BEZPP;27;0,14;-;34
+24;K»;18;Fait Luboö;56;K»;BEZPP;19;1,57;-;-
+9;ZmÏna;14;Feminov· Dana;43;ZmÏna;HS;55;1,24;-;-
+11;KDU-»SL;23;Feranc Daniel Mgr. Ph.D.;33;KDU-»SL;KDU-»SL;352;1,09;-;22
+12;PB;29;Fiedler Ladislav;45;PB;BEZPP;1;0,08;-;-
+6;ODS;30;Fifka Petr PharmDr.;46;ODS;ODS;316;0,44;-;26
+20;ANO 2011;5;Fichtner MatÏj PhDr. Ing. MBA;29;ANO 2011;ANO 2011;2062;2,13;*;5
+5;HLVZHŸRU;31;Fikarov· Jind¯iöka RNDr.;69;HLVZHŸRU;BEZPP;72;2,77;-;-
+3;Pir·ti;13;Findeis Luk·ö;28;Pir·ti;Pir·ti;54;0,25;-;-
+9;ZmÏna;1;Fischerov· Taùana;66;ZmÏna;KH;1349;30,65;-;-
+9;ZmÏna;29;Fiöera Jan BcA.;28;ZmÏna;BEZPP;5;0,11;-;-
+10;Ss»R;29;FojtÌk Frantiöek JUDr.;61;Ss»R;Ss»R;2;0,27;-;-
+12;PB;9;Foltis Karel Ing.;47;PB;BEZPP;7;0,57;-;-
+22;LEV 21;30;Form·nek Josef Bc.;39;LEV 21;LEV 21;6;1,59;-;-
+15;SPOZ;15;FranÏk Miroslav Mgr.;50;SPOZ;SPOZ;46;0,84;-;-
+4;TOP 09;16;Frankenbergerov· Helena Ing.;64;TOP 09;TOP 09;798;0,59;-;9
+21;KS»M;9;FraÚkov· Marcela;51;KS»M;KS»M;621;1,24;-;7
+6;ODS;22;FrÈlich Martin Ing.;36;ODS;ODS;359;0,51;-;18
+12;PB;12;FronÏk Roman;55;PB;BEZPP;4;0,32;-;-
+13;Suveren.;19;FroÚkov· Douskov· Gabriela Mgr.;43;Suveren.;BEZPP;18;2,25;-;-
+24;K»;34;Funk Luk·ö Mgr. DiS.;31;K»;BEZPP;10;0,82;-;-
+6;ODS;15;Gabriel Jan Bc.;42;ODS;ODS;684;0,97;-;11
+17;⁄svit;31;Glaser Bed¯ich;55;⁄svit;BEZPP;58;0,30;-;30
+21;KS»M;10;Gottwald Josef;42;KS»M;KS»M;1042;2,08;-;8
+13;Suveren.;16;Grabowsk· Anna;54;Suveren.;BEZPP;17;2,13;-;-
+9;ZmÏna;13;Grebo Mladen Mgr.;33;ZmÏna;BEZPP;17;0,38;-;-
+24;K»;22;Gregor Radovan RNDr. CSc.;64;K»;BEZPP;4;0,33;-;-
+6;ODS;6;Gros Ond¯ej;38;ODS;ODS;934;1,32;-;3
+17;⁄svit;7;Groszek Andrzej-Antoni;57;⁄svit;BEZPP;42;0,22;-;6
+18;DSSS;5;G¸nther Petr;47;DSSS;DSSS;40;1,61;-;-
+21;KS»M;3;Guölbauerov· Dagmar;60;KS»M;KS»M;1099;2,19;-;1
+6;ODS;14;Habart Michal Ing.;48;ODS;ODS;677;0,96;-;10
+20;ANO 2011;7;Hackl Alan Ing.;52;ANO 2011;ANO 2011;546;0,56;-;2
+22;LEV 21;29;Hadrava Ji¯Ì;69;LEV 21;LEV 21;2;0,53;-;-
+9;ZmÏna;35;Hainzov· Barbora MrA.;27;ZmÏna;BEZPP;8;0,18;-;-
+18;DSSS;32;H·jek ZbynÏk;34;DSSS;BEZPP;15;0,60;-;-
+4;TOP 09;11;H·jkov· Pavlina Mgr.;52;TOP 09;TOP 09;1344;0,99;-;4
+1;»SSD;30;Halov· Hana Mgr.;60;»SSD;»SSD;985;1,19;-;26
+18;DSSS;29;Hanuö Michal;21;DSSS;BEZPP;9;0,36;-;-
+1;»SSD;33;Hanuö Miloslav;52;»SSD;»SSD;401;0,48;-;29
+2;SvobodnÌ;16;Hanz·k Tom·ö Mgr.;30;SvobodnÌ;SvobodnÌ;117;0,53;-;-
+6;ODS;4;HanzlÌk Karel Mgr.;47;ODS;ODS;3009;4,27;-;2
+22;LEV 21;16;Harv·nek Petr;64;LEV 21;LEV 21;1;0,26;-;-
+2;SvobodnÌ;19;Haurythun Hana Mgr. Bc.;32;SvobodnÌ;SvobodnÌ;109;0,49;-;-
+5;HLVZHŸRU;30;Haurythun Petr;36;HLVZHŸRU;UNP;35;1,35;-;-
+12;PB;30;Hauserov· Eva;28;PB;BEZPP;5;0,40;-;-
+15;SPOZ;17;HavlÌËek Vlastimil Mgr.;41;SPOZ;SPOZ;36;0,66;-;-
+18;DSSS;25;Heidl Tom·ö;45;DSSS;BEZPP;11;0,44;-;-
+2;SvobodnÌ;6;Hejdov· Alice;40;SvobodnÌ;SvobodnÌ;376;1,71;-;-
+1;»SSD;26;HejkrlÌk Milan Ing.;35;»SSD;»SSD;834;1,00;-;22
+12;PB;7;Hejl Petr Ing. CSc.;59;PB;BEZPP;15;1,22;-;-
+10;Ss»R;1;Hemer Aleö Mgr.;46;Ss»R;Ss»R;70;9,48;-;-
+24;K»;9;Henn Ivan Mgr. Bc.;59;K»;BEZPP;8;0,66;-;-
+9;ZmÏna;27;Hepnar Petr;42;ZmÏna;BEZPP;46;1,04;-;-
+11;KDU-»SL;1;Herman Daniel Mgr.;50;KDU-»SL;KDU-»SL;6305;19,67;*;1
+9;ZmÏna;20;He¯tusov· Simona;39;ZmÏna;HS;37;0,84;-;-
+23;SZ;11;Himl Pavel Dr. phil.;42;SZ;SZ;790;2,08;-;-
+18;DSSS;27;Hlav·Ëkov· Jaroslava;68;DSSS;BEZPP;8;0,32;-;-
+11;KDU-»SL;29;Hlav·Ëov· Martina Ing.;32;KDU-»SL;BEZPP;355;1,10;-;28
+13;Suveren.;28;Hlot·k Valdemar Ing. CSc.;71;Suveren.;BEZPP;6;0,75;-;-
+10;Ss»R;7;Hn·t V·clav;67;Ss»R;Ss»R;8;1,08;-;-
+13;Suveren.;22;Hodek Jind¯ich;36;Suveren.;BEZPP;5;0,62;-;-
+1;»SSD;36;Hodek Pavel Mgr. Bc.;39;»SSD;»SSD;320;0,38;-;32
+24;K»;35;HodÌk Jaroslav;68;K»;BEZPP;5;0,41;-;-
+21;KS»M;15;Hoffman Frantiöek JUDr.;62;KS»M;KS»M;663;1,32;-;13
+20;ANO 2011;4;HoleËek Ji¯Ì Bc.;41;ANO 2011;ANO 2011;2099;2,17;*;4
+13;Suveren.;31;HoleËkov· ä·rka;23;Suveren.;BEZPP;5;0,62;-;-
+18;DSSS;28;HolÌk Petr;42;DSSS;BEZPP;14;0,56;-;-
+3;Pir·ti;17;Holovsk˝ Sebastian;28;Pir·ti;Pir·ti;161;0,75;-;-
+2;SvobodnÌ;35;Holubov· Alice;28;SvobodnÌ;SvobodnÌ;69;0,31;-;-
+17;⁄svit;32;Hora Jan;29;⁄svit;BEZPP;95;0,50;-;31
+21;KS»M;8;Hor·k Ji¯Ì PhDr. CSc.;60;KS»M;KS»M;506;1,01;-;6
+22;LEV 21;2;Hor·k Karel JUDr. Mgr.;46;LEV 21;LEV 21;17;4,52;-;-
+21;KS»M;32;Hoöek Karel RSDr.;68;KS»M;KS»M;68;0,13;-;30
+11;KDU-»SL;5;Hoöek Mari·n MUDr.;62;KDU-»SL;KDU-»SL;2420;7,55;-;3
+24;K»;25;Hoöù·lek Stanislav PhDr.;66;K»;BEZPP;5;0,41;-;-
+23;SZ;17;Hrabal Ladislav Ing. CSc.;75;SZ;BEZPP;184;0,48;-;-
+10;Ss»R;23;Hr·dek Ladislav;56;Ss»R;BEZPP;11;1,49;-;-
+20;ANO 2011;22;HrdliËkov· Radka Bc.;35;ANO 2011;ANO 2011;437;0,45;-;17
+23;SZ;9;Hromada Ji¯Ì MgA.;55;SZ;BEZPP;1513;3,99;-;-
+21;KS»M;36;Hronov· Alena Mgr.;62;KS»M;KS»M;121;0,24;-;34
+9;ZmÏna;15;HruöÌnsk˝ Martin;28;ZmÏna;HS;78;1,77;-;-
+21;KS»M;6;Hr˘za Ivan JUDr.;59;KS»M;KS»M;1511;3,02;-;4
+21;KS»M;20;HudeËek Ji¯Ì prof. RNDr. CSc.;59;KS»M;SDS;934;1,86;-;18
+11;KDU-»SL;36;Hulicius Eduard Mgr. MA;32;KDU-»SL;KDU-»SL;699;2,18;-;35
+23;SZ;8;H˘lov· Petra Ph.D.;34;SZ;SZ;2648;6,98;-;-
+21;KS»M;24;Chaloupka VladimÌr;55;KS»M;KS»M;169;0,33;-;22
+4;TOP 09;9;Chlup·Ëov· Zuzana JUDr.;58;TOP 09;STAN;3590;2,65;-;2
+13;Suveren.;7;Chovancov· Marta JUDr. LL.M.;55;Suveren.;BEZPP;31;3,88;-;-
+22;LEV 21;27;Chrpa Pavel;55;LEV 21;LEV 21;2;0,53;-;-
+17;⁄svit;25;Chud˝ Stanislav Ing.;74;⁄svit;BEZPP;44;0,23;-;24
+5;HLVZHŸRU;8;Jakub˘v Michaela;37;HLVZHŸRU;SBB;82;3,16;-;-
+15;SPOZ;11;Janda Ji¯Ì;54;SPOZ;SPOZ;23;0,42;-;-
+2;SvobodnÌ;33;Janda Karel Ing.;33;SvobodnÌ;SvobodnÌ;39;0,17;-;-
+6;ODS;7;Janderov· Jaroslava JUDr.;63;ODS;ODS;1468;2,08;-;4
+5;HLVZHŸRU;5;JaneËek Ji¯Ì;39;HLVZHŸRU;BEZPP;78;3,01;-;-
+15;SPOZ;4;Jankov· Vlasta MUDr.;62;SPOZ;SPOZ;271;4,99;-;-
+20;ANO 2011;23;Jankovsk˝ Milan Ing.;27;ANO 2011;ANO 2011;245;0,25;-;18
+6;ODS;35;Jank˘ Ji¯Ì Ing.;46;ODS;ODS;983;1,39;-;31
+21;KS»M;31;Janouch Roman Mgr.;40;KS»M;KS»M;517;1,03;-;29
+6;ODS;34;JarolÌm Jan Ing.;67;ODS;ODS;844;1,19;-;30
+23;SZ;2;Jechov· Kate¯ina Mgr.;51;SZ;SZ;2174;5,73;-;-
+20;ANO 2011;15;Jetmar Petr;58;ANO 2011;ANO 2011;201;0,20;-;10
+17;⁄svit;34;Jeûkov· Jitka;33;⁄svit;BEZPP;143;0,76;-;33
+18;DSSS;19;Jir·nek Frantiöek;43;DSSS;DSSS;16;0,64;-;-
+6;ODS;33;Jir·skov· MarkÈta MUDr.;64;ODS;ODS;1001;1,42;-;29
+11;KDU-»SL;17;Jirs·k Tom·ö Mgr.;41;KDU-»SL;KDU-»SL;357;1,11;-;16
+22;LEV 21;34;Jirs·kov· Jarmila;60;LEV 21;LEV 21;3;0,79;-;-
+4;TOP 09;23;Ji¯Ìk Michal;43;TOP 09;TOP 09;159;0,11;-;16
+10;Ss»R;26;J˘na Josef;32;Ss»R;Ss»R;20;2,71;-;-
+5;HLVZHŸRU;33;KabÌËkov· Jana;53;HLVZHŸRU;UNP;26;1,00;-;-
+13;Suveren.;27;KabÌËkov· Zuzana;35;Suveren.;BEZPP;12;1,50;-;-
+11;KDU-»SL;20;Kajpr Daniel;44;KDU-»SL;KDU-»SL;226;0,70;-;19
+3;Pir·ti;8;Kallasch Ond¯ej;22;Pir·ti;Pir·ti;257;1,20;-;-
+16;OB»_2011;2;Kalouskov· äorfov· AlûbÏta Mgr.;45;OB»_2011;BEZPP;27;5,93;-;-
+13;Suveren.;33;Karlovsk˝ Jind¯ich Ing.;59;Suveren.;BEZPP;5;0,62;-;-
+24;K»;8;Kart·kov· Daniela;48;K»;BEZPP;18;1,49;-;-
+5;HLVZHŸRU;20;Kasal Karel;63;HLVZHŸRU;BEZPP;17;0,65;-;-
+15;SPOZ;36;KasÌk Ji¯Ì MUDr. Ph.D.;57;SPOZ;BEZPP;174;3,20;-;-
+9;ZmÏna;31;Kastel Miroslav;58;ZmÏna;BEZPP;20;0,45;-;-
+12;PB;36;Kaöparov· Barbora;22;PB;BEZPP;13;1,06;-;-
+24;K»;32;Kaööovicov· Zuzana Mgr.;55;K»;BEZPP;9;0,74;-;-
+22;LEV 21;18;Kavale Ji¯Ì JUDr.;66;LEV 21;LEV 21;6;1,59;-;-
+23;SZ;28;Kavkov· Eva Mgr.;37;SZ;SZ;573;1,51;-;-
+2;SvobodnÌ;36;Kefurt Robert;50;SvobodnÌ;SvobodnÌ;42;0,19;-;-
+10;Ss»R;9;Kesl Karel;58;Ss»R;BEZPP;11;1,49;-;-
+3;Pir·ti;19;Kheck Patrick Mgr.;32;Pir·ti;BEZPP;89;0,41;-;-
+5;HLVZHŸRU;12;Kindler Kryötof;35;HLVZHŸRU;PaS;95;3,66;-;-
+13;Suveren.;10;Kinkal LudÏk DiS.;51;Suveren.;BEZPP;4;0,50;-;-
+17;⁄svit;29;Klaus V·clav;57;⁄svit;BEZPP;283;1,50;-;28
+9;ZmÏna;30;Kleinov· Brz·kov· PavlÌna Mgr. PhD.;41;ZmÏna;BEZPP;109;2,47;-;-
+1;»SSD;5;KlÌma Karel Ing.;37;»SSD;»SSD;2478;2,99;-;2
+15;SPOZ;31;Klimtov· VÌtÏzslava;72;SPOZ;BEZPP;33;0,60;-;-
+11;KDU-»SL;35;Klouda Jan Ing.;43;KDU-»SL;KDU-»SL;135;0,42;-;34
+5;HLVZHŸRU;4;Kloudov· Gabriela Ing.;31;HLVZHŸRU;BEZPP;128;4,94;-;-
+13;Suveren.;3;Klus·Ëek Michal Ing.;34;Suveren.;»SNS;27;3,38;-;-
+13;Suveren.;17;Kobes Jan Ing.;50;Suveren.;BEZPP;3;0,37;-;-
+6;ODS;32;Kodetov· SoÚa;68;ODS;ODS;1158;1,64;-;28
+6;ODS;5;Kohoutov· Lenka Bc.;45;ODS;ODS;3791;5,38;-;1
+21;KS»M;35;Kokoöka Petr JUDr.;58;KS»M;BEZPP;227;0,45;-;33
+24;K»;6;Kol·¯ Milan;57;K»;K»;6;0,49;-;-
+23;SZ;6;KolÌnsk· Petra Mgr.;38;SZ;SZ;3041;8,02;-;-
+23;SZ;34;Kolmanov· Dagmar;54;SZ;SZ;76;0,20;-;-
+10;Ss»R;35;Kolmaöov· Ren·ta;35;Ss»R;BEZPP;2;0,27;-;-
+13;Suveren.;20;Kolom˝ LudÏk;60;Suveren.;BEZPP;1;0,12;-;-
+15;SPOZ;34;KoneËn· NadÏûda;50;SPOZ;SPOZ;10;0,18;-;-
+4;TOP 09;14;Korba Karel Ing.;45;TOP 09;TOP 09;1127;0,83;-;7
+4;TOP 09;3;Korte Daniel PhDr.;60;TOP 09;TOP 09;4620;3,41;*;3
+18;DSSS;31;Ko¯Ìnkov· ä·rka;42;DSSS;BEZPP;9;0,36;-;-
+20;ANO 2011;26;Kos Ladislav Ing.;55;ANO 2011;HPP 11;611;0,63;-;21
+6;ODS;9;Kos VojtÏch Ing. MBA;41;ODS;ODS;1320;1,87;-;6
+1;»SSD;12;Koskuba Ji¯Ì MUDr.;57;»SSD;»SSD;4772;5,77;*;2
+9;ZmÏna;8;Kostl·nov· Roubalov· VÏra Ing.;65;ZmÏna;BEZPP;83;1,88;-;-
+6;ODS;26;Koöan Petr Ing.;32;ODS;ODS;776;1,10;-;22
+24;K»;4;Koöov· Kate¯ina;33;K»;BEZPP;33;2,73;-;-
+21;KS»M;23;Kotek Tom·ö;40;KS»M;KS»M;895;1,79;-;21
+15;SPOZ;29;KotouËov· Michaela DiS.;35;SPOZ;SPOZ;21;0,38;-;-
+23;SZ;12;Kotvov· Iva Mgr.;54;SZ;SZ;411;1,08;-;-
+2;SvobodnÌ;24;Kouba J·chym;26;SvobodnÌ;SvobodnÌ;77;0,35;-;-
+4;TOP 09;7;Koubek Ji¯Ì Mgr.;37;TOP 09;TOP 09;1838;1,36;*;7
+6;ODS;25;KousalÌkov· Marie Ing.;67;ODS;ODS;2203;3,13;-;21
+17;⁄svit;23;Koutn˝ Daniel;31;⁄svit;BEZPP;91;0,48;-;22
+21;KS»M;4;KrajËa Milan;30;KS»M;KS»M;1436;2,87;-;2
+11;KDU-»SL;26;Kr·l Ji¯Ì Mgr.;40;KDU-»SL;KDU-»SL;118;0,36;-;25
+13;Suveren.;12;Kramn˝ Miloslav MUDr.;55;Suveren.;BEZPP;16;2,00;-;-
+2;SvobodnÌ;12;Kr·sa Tom·ö Ing.;42;SvobodnÌ;SvobodnÌ;194;0,88;-;-
+24;K»;3;Kr·tk˝ Petr Mgr. Bc. BBS;38;K»;K»;43;3,56;-;-
+5;HLVZHŸRU;7;KratochvÌlov· NadÏûda JUDr.;49;HLVZHŸRU;UNP;46;1,77;-;-
+23;SZ;14;KratochvÌlov· Silvie Mgr.;35;SZ;SZ;245;0,64;-;-
+3;Pir·ti;9;Krausov· Michaela;21;Pir·ti;Pir·ti;524;2,45;-;-
+5;HLVZHŸRU;22;Krausov· Nat·lia Bc.;41;HLVZHŸRU;BEZPP;14;0,54;-;-
+24;K»;30;KrËek Jan;71;K»;K»;9;0,74;-;-
+17;⁄svit;14;KrËek Milan Ing.;50;⁄svit;BEZPP;236;1,25;-;13
+1;»SSD;22;KrejËov· Drahoslava;51;»SSD;»SSD;364;0,44;-;18
+12;PB;14;KrejË˘ Ji¯Ì;45;PB;BEZPP;16;1,30;-;-
+4;TOP 09;32;Krobov· H·öov· Monika JUDr.;50;TOP 09;TOP 09;1212;0,89;-;25
+15;SPOZ;5;Kroh Michael doc. Ing. CSc.;65;SPOZ;SPOZ;172;3,16;-;-
+17;⁄svit;4;Kr˘ta Jan;67;⁄svit;BEZPP;506;2,69;-;3
+18;DSSS;15;K¯iv·nek Karel;49;DSSS;DSSS;28;1,13;-;-
+5;HLVZHŸRU;34;K¯iv·nkov· Klis·kov· Dana;37;HLVZHŸRU;UNP;22;0,84;-;-
+24;K»;36;KubeËka Ivo;68;K»;BEZPP;5;0,41;-;-
+2;SvobodnÌ;4;KubÌËek Ji¯Ì Ing.;33;SvobodnÌ;SvobodnÌ;812;3,70;-;-
+10;Ss»R;18;KuËera Robert;44;Ss»R;Ss»R;25;3,38;-;-
+11;KDU-»SL;31;Kucha¯ov· Ludmila Mgr.;53;KDU-»SL;KDU-»SL;129;0,40;-;30
+11;KDU-»SL;27;Kuchtov· Perla Ing. Ph.D.;54;KDU-»SL;KDU-»SL;229;0,71;-;26
+5;HLVZHŸRU;17;K˘s Daniel Ing.;41;HLVZHŸRU;UNP;15;0,57;-;-
+12;PB;5;Kutina Frantiöek;56;PB;BEZPP;9;0,73;-;-
+21;KS»M;30;Kvapil Jaroslav Bc. DiS.;35;KS»M;KS»M;432;0,86;-;28
+20;ANO 2011;6;KvÌËala Petr Mgr.;38;ANO 2011;ANO 2011;1181;1,22;-;1
+2;SvobodnÌ;15;Kykalov· Rameöov· Kate¯ina;48;SvobodnÌ;SvobodnÌ;146;0,66;-;-
+12;PB;19;Kypr˝ Daniel;27;PB;BEZPP;5;0,40;-;-
+21;KS»M;27;Kysel˝ VÌt Ing.;50;KS»M;BEZPP;191;0,38;-;25
+9;ZmÏna;18;L·busov· Jana;25;ZmÏna;BEZPP;24;0,54;-;-
+9;ZmÏna;16;L·busov· MarkÈta Bc.;30;ZmÏna;BEZPP;37;0,84;-;-
+20;ANO 2011;13;Lacko Radek Ing.;45;ANO 2011;ANO 2011;995;1,03;-;8
+20;ANO 2011;35;Landa Martin;29;ANO 2011;ANO 2011;259;0,26;-;30
+4;TOP 09;15;Lap·Ëek Jakub Mgr.;32;TOP 09;TOP 09;1224;0,90;-;8
+4;TOP 09;5;Laud·t Frantiöek Ing.;53;TOP 09;TOP 09;2867;2,12;*;5
+22;LEV 21;31;L·viËkov· Iva;22;LEV 21;BEZPP;3;0,79;-;-
+21;KS»M;7;Ledl LubomÌr JUDr.;61;KS»M;SDS;862;1,72;-;5
+11;KDU-»SL;18;Ledvinov· Jarmila;40;KDU-»SL;KDU-»SL;115;0,35;-;17
+15;SPOZ;6;Legiersk· Yvona Ing.;57;SPOZ;BEZPP;129;2,37;-;-
+9;ZmÏna;32;Lejtnar VladimÌr;33;ZmÏna;BEZPP;22;0,49;-;-
+22;LEV 21;8;Leöek Pavel Ing.;62;LEV 21;LEV 21;3;0,79;-;-
+5;HLVZHŸRU;32;Lhot·k Radim Mgr.;60;HLVZHŸRU;BEZPP;32;1,23;-;-
+24;K»;7;Lieberzeit Michal BcA.;29;K»;K»;33;2,73;-;-
+2;SvobodnÌ;23;Liegert Filip Ing.;34;SvobodnÌ;SvobodnÌ;81;0,36;-;-
+10;Ss»R;13;Linek Ladislav Ing.;54;Ss»R;Ss»R;10;1,35;-;-
+17;⁄svit;8;Liöka Milan;57;⁄svit;BEZPP;186;0,99;-;7
+23;SZ;1;Liöka Ond¯ej Mgr.;36;SZ;SZ;10590;27,95;-;-
+21;KS»M;33;Lojda Frantiöek;59;KS»M;KS»M;162;0,32;-;31
+12;PB;23;Lokajov· Ellen;54;PB;BEZPP;14;1,14;-;-
+5;HLVZHŸRU;6;Luc·k Jozef;28;HLVZHŸRU;PSZ;11;0,42;-;-
+6;ODS;19;Ludkov· VladimÌra Mgr.;34;ODS;ODS;2428;3,44;-;15
+17;⁄svit;15;LudvÌk Tom·ö;32;⁄svit;BEZPP;99;0,52;-;14
+12;PB;22;Luk·Ëek Petr;54;PB;BEZPP;1;0,08;-;-
+22;LEV 21;24;Luk·öov· Eva;65;LEV 21;LEV 21;1;0,26;-;-
+24;K»;24;Lukavec Petr Ing.;75;K»;BEZPP;6;0,49;-;-
+24;K»;12;Lutovsk˝ Michal PhDr.;52;K»;K»;35;2,90;-;-
+21;KS»M;12;Macek Milan RNDr. CSc.;56;KS»M;KS»M;999;1,99;-;10
+12;PB;26;Macek Pavel;50;PB;BEZPP;5;0,40;-;-
+15;SPOZ;28;MacÌkov· Monika;40;SPOZ;SPOZ;12;0,22;-;-
+3;Pir·ti;10;Mahrik Viktor;31;Pir·ti;Pir·ti;216;1,01;-;-
+2;SvobodnÌ;1;Mach Petr Ing. Ph.D.;38;SvobodnÌ;SvobodnÌ;3945;18,00;-;-
+12;PB;18;Mach·Ëek V·clav;36;PB;BEZPP;0;0,00;-;-
+1;»SSD;23;Majerov· Lenka Ing.;69;»SSD;»SSD;557;0,67;-;19
+6;ODS;31;Mallotov· Helena Mgr.;69;ODS;ODS;520;0,73;-;27
+22;LEV 21;22;Malsa Jan Ing.;56;LEV 21;LEV 21;5;1,32;-;-
+1;»SSD;29;MandÌk Miloslav MUDr.;47;»SSD;»SSD;2375;2,87;-;25
+10;Ss»R;17;Marek Ladislav;61;Ss»R;Ss»R;4;0,54;-;-
+11;KDU-»SL;7;Mareö Pavel Mgr.;37;KDU-»SL;KDU-»SL;1325;4,13;-;7
+1;»SSD;11;Marksov· Michaela Mgr.;44;»SSD;»SSD;3283;3,97;-;8
+11;KDU-»SL;30;MartÌnek Jan;24;KDU-»SL;KDU-»SL;191;0,59;-;29
+24;K»;17;MartÌnek ZdenÏk;67;K»;K»;8;0,66;-;-
+17;⁄svit;10;Ma¯Ìk Jakub;30;⁄svit;BEZPP;370;1,97;-;9
+15;SPOZ;27;Ma¯Ìk Milan Ing.;53;SPOZ;SPOZ;23;0,42;-;-
+16;OB»_2011;7;MatÏjkov· Jana;55;OB»_2011;BEZPP;9;1,97;-;-
+1;»SSD;17;Matonoha Drahoslav Ing.;56;»SSD;»SSD;927;1,12;-;13
+12;PB;15;Matouöek Frantiöek;41;PB;BEZPP;2;0,16;-;-
+3;Pir·ti;21;Matouöek Josef;57;Pir·ti;BEZPP;450;2,11;-;-
+13;Suveren.;30;Matouökov· Ludmila;64;Suveren.;BEZPP;8;1,00;-;-
+9;ZmÏna;7;Melena Ond¯ej Bc.;29;ZmÏna;BEZPP;65;1,47;-;-
+12;PB;34;MenËÌk Jan;54;PB;BEZPP;3;0,24;-;-
+20;ANO 2011;36;MenöÌk Radim Ing.;67;ANO 2011;ANO 2011;333;0,34;-;31
+6;ODS;17;Menzelov· Blanka Ing.;56;ODS;ODS;644;0,91;-;13
+10;Ss»R;6;Merhaut Marek PhDr. Ph.D., MBA;48;Ss»R;Ss»R;21;2,84;-;-
+1;»SSD;16;Miffek Ond¯ej Ing. Ph.D.;31;»SSD;»SSD;965;1,16;-;12
+3;Pir·ti;7;Michailidu Jana;23;Pir·ti;Pir·ti;371;1,73;-;-
+20;ANO 2011;29;Michal Tom·ö Ing.;35;ANO 2011;ANO 2011;147;0,15;-;24
+3;Pir·ti;3;Mich·lek Jakub Mgr. Bc.;24;Pir·ti;Pir·ti;1807;8,47;-;-
+12;PB;8;Mikeö Milan Mgr. Bc.;42;PB;BEZPP;11;0,89;-;-
+3;Pir·ti;11;Mikol·ö Ivan Ing.;48;Pir·ti;Pir·ti;249;1,16;-;-
+2;SvobodnÌ;17;Mikul·öek Pavel Ing.;47;SvobodnÌ;SvobodnÌ;91;0,41;-;-
+22;LEV 21;15;Mikulcov· Monika;30;LEV 21;LEV 21;6;1,59;-;-
+2;SvobodnÌ;32;MiÚovsk· Veronika Ing.;26;SvobodnÌ;SvobodnÌ;144;0,65;-;-
+23;SZ;5;Mirovsk˝ Ond¯ej Mgr. MEM;34;SZ;SZ;1658;4,37;-;-
+17;⁄svit;33;MlËoch Jan;35;⁄svit;BEZPP;132;0,70;-;32
+18;DSSS;7;Moravcov· Tereza;22;DSSS;BEZPP;39;1,57;-;-
+21;KS»M;21;MouËkov· Miroslava PhDr.;59;KS»M;KS»M;650;1,30;-;19
+22;LEV 21;33;M¸ller Ji¯Ì;61;LEV 21;LEV 21;3;0,79;-;-
+18;DSSS;12;M¸ller Milan;59;DSSS;DSSS;19;0,76;-;-
+11;KDU-»SL;19;M¸ller Miloslav RNDr. Ph.D.;37;KDU-»SL;KDU-»SL;613;1,91;-;18
+13;Suveren.;21;Munzarov· Alena;40;Suveren.;BEZPP;8;1,00;-;-
+22;LEV 21;21;Musil Jaroslav;38;LEV 21;LEV 21;3;0,79;-;-
+12;PB;21;Musil VÏroslav;24;PB;BEZPP;12;0,97;-;-
+4;TOP 09;31;MuûÌk VladimÌr Bc.;39;TOP 09;TOP 09;365;0,27;-;24
+10;Ss»R;31;Nakladov Boris Mgr.;67;Ss»R;Ss»R;1;0,13;-;-
+4;TOP 09;22;Narovec Michal Ing.;40;TOP 09;TOP 09;309;0,22;-;15
+10;Ss»R;4;Navr·tilov· Dagmar Mgr.;47;Ss»R;LIDEM;21;2,84;-;-
+5;HLVZHŸRU;36;NedvÏd Jaroslav;42;HLVZHŸRU;UNP;24;0,92;-;-
+22;LEV 21;26;NedvÏd Karel;76;LEV 21;LEV 21;1;0,26;-;-
+23;SZ;35;Nechv·tal AntonÌn MUDr.;49;SZ;SZ;290;0,76;-;-
+6;ODS;1;NÏmcov· Miroslava;60;ODS;ODS;26866;38,17;*;1
+13;Suveren.;11;NÏmec VladimÌr;65;Suveren.;Suveren.;4;0,50;-;-
+24;K»;19;NÏmec VladimÌr MUDr.;57;K»;K»;21;1,74;-;-
+13;Suveren.;8;NÏmeËkov· Eva Ing.;43;Suveren.;BEZPP;18;2,25;-;-
+15;SPOZ;3;Nemrah ZakarÌa;23;SPOZ;SPOZ;251;4,62;-;-
+21;KS»M;29;Neubert Milan RNDr.;58;KS»M;SDS;305;0,61;-;27
+9;ZmÏna;28;Neumannov· Alice;63;ZmÏna;BEZPP;9;0,20;-;-
+12;PB;24;Nosek ZdenÏk;52;PB;BEZPP;1;0,08;-;-
+23;SZ;29;Nov·k Adam Mgr.;31;SZ;SZ;35;0,09;-;-
+15;SPOZ;25;Nov·k Petr;57;SPOZ;BEZPP;28;0,51;-;-
+17;⁄svit;27;Nov·k Tom·ö;43;⁄svit;BEZPP;78;0,41;-;26
+13;Suveren.;23;Nov·k Vlastimil;45;Suveren.;BEZPP;1;0,12;-;-
+1;»SSD;4;Nov·kov· Hana;55;»SSD;»SSD;3231;3,90;-;1
+22;LEV 21;17;Novotn˝ LubomÌr PhDr.;68;LEV 21;LEV 21;4;1,06;-;-
+20;ANO 2011;10;Novotn˝ Petr Mgr.;28;ANO 2011;ANO 2011;911;0,94;-;5
+18;DSSS;8;Nov˝ Jaroslav;53;DSSS;DSSS;20;0,80;-;-
+4;TOP 09;24;Nowakov· TÏmÌnov· Jana JUDr.;50;TOP 09;TOP 09;660;0,48;-;17
+24;K»;29;N˝vlt ZdenÏk;55;K»;BEZPP;3;0,24;-;-
+22;LEV 21;5;Obst Luk·ö Bc.;28;LEV 21;LEV 21;4;1,06;-;-
+5;HLVZHŸRU;13;Oliöar Martin Ing.;37;HLVZHŸRU;BEZPP;11;0,42;-;-
+9;ZmÏna;25;Opoleck˝ Hynek Bc.;28;ZmÏna;HS;19;0,43;-;-
+1;»SSD;6;Oubrechtov· Miroslava;53;»SSD;»SSD;1013;1,22;-;3
+20;ANO 2011;19;Oupic Jaroslav Ing.;59;ANO 2011;ANO 2011;135;0,13;-;14
+24;K»;21;OvËarova Vilma MUDr.;67;K»;BEZPP;11;0,91;-;-
+1;»SSD;18;PaclÌk Leoö;35;»SSD;»SSD;637;0,77;-;14
+9;ZmÏna;26;PaÔourkov· Lucie;31;ZmÏna;BEZPP;11;0,24;-;-
+10;Ss»R;36;Paggio Viktor;32;Ss»R;LIDEM;12;1,62;-;-
+4;TOP 09;27;Pasiarov· NadÏûda;57;TOP 09;TOP 09;812;0,60;-;20
+6;ODS;36;Paulus Libor Mgr.;42;ODS;ODS;500;0,71;-;32
+6;ODS;24;PavlÌËkov· Kate¯ina MUDr.;61;ODS;ODS;869;1,23;-;20
+5;HLVZHŸRU;23;PavlÌkov· Hana Mgr.;46;HLVZHŸRU;BEZPP;42;1,62;-;-
+5;HLVZHŸRU;18;Pavl˘ RenÈ;48;HLVZHŸRU;BEZPP;31;1,19;-;-
+11;KDU-»SL;22;Pavl˘ Tom·ö Mgr.;47;KDU-»SL;KDU-»SL;246;0,76;-;21
+4;TOP 09;4;Peckov· Gabriela MUDr.;56;TOP 09;TOP 09;5502;4,07;*;4
+24;K»;14;Pej¯imovsk˝ Josef Mgr. Ing.;68;K»;K»;22;1,82;-;-
+20;ANO 2011;21;Pekar Vasil Silvestr Ing. Ph.D.;67;ANO 2011;ANO 2011;262;0,27;-;16
+22;LEV 21;6;Pelc VladimÌr PhDr.;59;LEV 21;LEV 21;6;1,59;-;-
+6;ODS;28;PerlÌn Radim RNDr. Ph.D.;51;ODS;ODS;1039;1,47;-;24
+2;SvobodnÌ;10;Peöan Pavel Bc.;39;SvobodnÌ;SvobodnÌ;97;0,44;-;-
+1;»SSD;20;Peötov· Kate¯ina;30;»SSD;»SSD;1401;1,69;-;16
+21;KS»M;13;PetelÌk JaromÌr Mgr.;30;KS»M;KS»M;966;1,93;-;11
+4;TOP 09;36;Petr Jan Mgr.;34;TOP 09;TOP 09;413;0,30;-;29
+5;HLVZHŸRU;29;Petr Miloö Ing.;26;HLVZHŸRU;BEZPP;21;0,81;-;-
+9;ZmÏna;4;Petr·Ú ZdenÏk MUDr.;60;ZmÏna;BEZPP;142;3,22;-;-
+1;»SSD;10;Petrus Roman;35;»SSD;»SSD;1082;1,30;-;7
+17;⁄svit;16;Pet¯ina Martin Ing.;34;⁄svit;BEZPP;142;0,75;-;15
+18;DSSS;1;Pet¯ivalsk˝ Ji¯Ì;30;DSSS;DSSS;174;7,03;-;-
+11;KDU-»SL;8;Philipp Tom MUDr. Ph.D., MBA;44;KDU-»SL;KDU-»SL;1785;5,56;-;5
+23;SZ;18;Pickov· Ilona Ing.;46;SZ;SZ;188;0,49;-;-
+11;KDU-»SL;28;Pik·lek Dan Bc.;42;KDU-»SL;KDU-»SL;218;0,68;-;27
+13;Suveren.;29;Pila¯ov· Gabriela;34;Suveren.;BEZPP;7;0,87;-;-
+20;ANO 2011;33;Pistora ZdenÏk Ing.;54;ANO 2011;ANO 2011;197;0,20;-;28
+4;TOP 09;8;PlÌöek Martin Mgr.;38;TOP 09;TOP 09;1866;1,38;-;1
+12;PB;31;Plz·k Petr;52;PB;BEZPP;6;0,48;-;-
+3;Pir·ti;12;Podhajsk˝ Jan Mgr.;37;Pir·ti;Pir·ti;348;1,63;-;-
+23;SZ;32;Pokorn· Martina Mgr.;42;SZ;SZ;207;0,54;-;-
+22;LEV 21;9;Pokorn˝ Libor Ing.;57;LEV 21;LEV 21;6;1,59;-;-
+20;ANO 2011;20;Pol·ch Martin Ing. arch.;34;ANO 2011;ANO 2011;727;0,75;-;15
+6;ODS;12;Pol·k Ferdinand MUDr. Ph.D.;41;ODS;ODS;3006;4,27;-;8
+3;Pir·ti;14;Pol·k Michael;39;Pir·ti;Pir·ti;201;0,94;-;-
+2;SvobodnÌ;5;Polaneck˝ Jan Ing.;36;SvobodnÌ;SvobodnÌ;479;2,18;-;-
+4;TOP 09;2;PolË·k Stanislav JUDr.;33;TOP 09;STAN;9004;6,66;*;2
+22;LEV 21;10;PondÏlÌËek Ji¯Ì;49;LEV 21;LEV 21;7;1,86;-;-
+12;PB;25;Popelka Mirko;42;PB;BEZPP;1;0,08;-;-
+2;SvobodnÌ;7;PotuûnÌk Petr MUDr.;44;SvobodnÌ;SvobodnÌ;500;2,28;-;-
+10;Ss»R;11;Princov· Kristina;59;Ss»R;BEZPP;10;1,35;-;-
+3;Pir·ti;4;Profant Ond¯ej;25;Pir·ti;Pir·ti;750;3,51;-;-
+24;K»;16;Proch·zka Jan Mgr.;27;K»;BEZPP;13;1,07;-;-
+13;Suveren.;25;Proch·zka Jind¯ich;57;Suveren.;BEZPP;1;0,12;-;-
+11;KDU-»SL;21;Proch·zkov· Tereza Bc.;26;KDU-»SL;KDU-»SL;300;0,93;-;20
+5;HLVZHŸRU;16;Prokeöov· Jana Mgr.;43;HLVZHŸRU;BEZPP;76;2,93;-;-
+20;ANO 2011;27;Prokop Josef MVDr.;58;ANO 2011;ANO 2011;714;0,73;-;22
+22;LEV 21;23;Prokop V·clav;66;LEV 21;LEV 21;2;0,53;-;-
+12;PB;33;Prokop ZdenÏk;49;PB;BEZPP;1;0,08;-;-
+10;Ss»R;5;Promberger Ji¯Ì Mgr.;65;Ss»R;Ss»R;13;1,76;-;-
+15;SPOZ;7;Pröala Pavel Ing. CSc.;61;SPOZ;SPOZ;154;2,83;-;-
+9;ZmÏna;5;Pr˘dkov· Ludmila Ing.;56;ZmÏna;BEZPP;55;1,24;-;-
+18;DSSS;9;PuË Petr;51;DSSS;DSSS;63;2,54;-;-
+22;LEV 21;32;Pucholt Milan;42;LEV 21;LEV 21;0;0,00;-;-
+5;HLVZHŸRU;10;Pulec Petr;43;HLVZHŸRU;UNP;40;1,54;-;-
+20;ANO 2011;11;Pulgret Karel;33;ANO 2011;ANO 2011;297;0,30;-;6
+13;Suveren.;5;Purnoch Milan Mgr.;51;Suveren.;BEZPP;13;1,62;-;-
+13;Suveren.;14;P˝cha Miroslav Ing.;56;Suveren.;BEZPP;3;0,37;-;-
+23;SZ;31;Radil Jan Bc.;29;SZ;SZ;41;0,10;-;-
+9;ZmÏna;22;Radinov· Svatava;36;ZmÏna;BEZPP;13;0,29;-;-
+24;K»;11;Raschel Petr JUDr.;60;K»;BEZPP;24;1,99;-;-
+11;KDU-»SL;2;R·zkov· Daniela PhDr.;51;KDU-»SL;KDU-»SL;2258;7,04;-;4
+6;ODS;23;Recman Jan Mgr.;32;ODS;ODS;578;0,82;-;19
+16;OB»_2011;9;Reiman Josef;71;OB»_2011;BEZPP;6;1,31;-;-
+9;ZmÏna;34;Reimann ZdenÏk;71;ZmÏna;BEZPP;6;0,13;-;-
+23;SZ;16;Rejchrtov· AlûbÏta Mgr.;66;SZ;SZ;455;1,20;-;-
+23;SZ;26;Rejchrtov· Petra Mgr.;44;SZ;SZ;270;0,71;-;-
+10;Ss»R;10;Rejmon Ji¯Ì;57;Ss»R;Ss»R;17;2,30;-;-
+23;SZ;22;Rendlov· Simona Ing.;54;SZ;SZ;201;0,53;-;-
+1;»SSD;27;Riedlbauchov· ºubica Mgr.;69;»SSD;»SSD;381;0,46;-;23
+1;»SSD;34;Rˆdig Daniel Ing.;37;»SSD;»SSD;279;0,33;-;30
+9;ZmÏna;10;Rˆsslerov· Regina;53;ZmÏna;KH;38;0,86;-;-
+22;LEV 21;36;Rostaöov· Edita;51;LEV 21;LEV 21;1;0,26;-;-
+11;KDU-»SL;24;Rouskov· Ivana;48;KDU-»SL;KDU-»SL;239;0,74;-;23
+13;Suveren.;6;Ruml VladimÌr Bc.;25;Suveren.;BEZPP;17;2,13;-;-
+23;SZ;13;Rut Ond¯ej Mgr.;31;SZ;SZ;630;1,66;-;-
+17;⁄svit;12;R˘ûek Jaroslav Ing. CSc.;60;⁄svit;BEZPP;194;1,03;-;11
+20;ANO 2011;14;R˘ûiËka Martin Bc.;29;ANO 2011;ANO 2011;217;0,22;-;9
+2;SvobodnÌ;20;R˘ûiËka Zdislav;63;SvobodnÌ;SvobodnÌ;94;0,42;-;-
+2;SvobodnÌ;30;Ryb·¯ Ji¯Ì;25;SvobodnÌ;SvobodnÌ;80;0,36;-;-
+20;ANO 2011;30;R˝dl Karel Bc.;28;ANO 2011;ANO 2011;175;0,18;-;25
+24;K»;10;Ryöav· Romana;50;K»;BEZPP;16;1,32;-;-
+20;ANO 2011;12;ÿÌËa¯ Jan MBA;29;ANO 2011;ANO 2011;552;0,57;-;7
+13;Suveren.;9;ÿÌha Jakub MUDr.;42;Suveren.;BEZPP;16;2,00;-;-
+11;KDU-»SL;15;ÿÌha VladimÌr MUDr.;64;KDU-»SL;KDU-»SL;991;3,09;-;14
+11;KDU-»SL;10;ÿivn·Ëov· Irena Ing.;64;KDU-»SL;KDU-»SL;323;1,00;-;9
+5;HLVZHŸRU;9;Satran Eugen;26;HLVZHŸRU;UNP;24;0,92;-;-
+2;SvobodnÌ;34;SeËk·r Alois Bc.;25;SvobodnÌ;SvobodnÌ;101;0,46;-;-
+15;SPOZ;10;Sekera Tom·ö Mgr. MBA;48;SPOZ;SPOZ;110;2,02;-;-
+13;Suveren.;26;Semeck˝ Marcel;51;Suveren.;Suveren.;3;0,37;-;-
+21;KS»M;1;Semelov· Marta Mgr.;53;KS»M;KS»M;3291;6,58;*;2
+6;ODS;27;Scholz Petr;24;ODS;ODS;719;1,02;-;23
+4;TOP 09;13;Schwarz Otto MUDr.;60;TOP 09;TOP 09;2442;1,80;-;6
+4;TOP 09;1;Schwarzenberg Karel;75;TOP 09;TOP 09;37794;27,97;*;1
+9;ZmÏna;19;Sikora Roman MgA.;43;ZmÏna;BEZPP;27;0,61;-;-
+2;SvobodnÌ;22;Skalick˝ Jan Ing.;52;SvobodnÌ;SvobodnÌ;80;0,36;-;-
+21;KS»M;17;Skoupil Karel;60;KS»M;KS»M;148;0,29;-;15
+4;TOP 09;25;Slabihoudek Tom·ö;35;TOP 09;TOP 09;508;0,37;-;18
+20;ANO 2011;24;Slab˝ Martin;46;ANO 2011;ANO 2011;201;0,20;-;19
+17;⁄svit;21;Sl·ma Michal;31;⁄svit;BEZPP;110;0,58;-;20
+2;SvobodnÌ;2;Smetka Radim;25;SvobodnÌ;SvobodnÌ;752;3,43;-;-
+9;ZmÏna;24;SmÌökov· Zuzana Mgr.;31;ZmÏna;HS;33;0,74;-;-
+10;Ss»R;22;SmolÌkov· Jaroslava;70;Ss»R;BEZPP;1;0,13;-;-
+15;SPOZ;2;SmrËka Luboö doc. Ing. CSc.;52;SPOZ;SPOZ;429;7,90;-;-
+9;ZmÏna;2;Smrû Milan;65;ZmÏna;"Z";155;3,52;-;-
+17;⁄svit;36;Snopek Frantiöek;38;⁄svit;BEZPP;73;0,38;-;35
+18;DSSS;10;Sojka Libor;58;DSSS;DSSS;24;0,97;-;-
+5;HLVZHŸRU;11;Solis Daniel Lic. LL.M.;45;HLVZHŸRU;UNP;138;5,32;-;-
+4;TOP 09;26;Sova Jan Mgr.;32;TOP 09;TOP 09;570;0,42;-;19
+17;⁄svit;13;Sp·lenka Peter Ing.;66;⁄svit;VV;127;0,67;-;12
+17;⁄svit;28;Spilka Petr Bc.;31;⁄svit;BEZPP;63;0,33;-;27
+24;K»;1;Srb V·clav;55;K»;K»;107;8,87;-;-
+17;⁄svit;19;Stach Michal;30;⁄svit;BEZPP;139;0,74;-;18
+9;ZmÏna;36;Stach Stanislav Ing. CSc.;76;ZmÏna;BEZPP;10;0,22;-;-
+12;PB;6;StanÏk Frantiöek;57;PB;BEZPP;4;0,32;-;-
+4;TOP 09;19;St·rek Jan;30;TOP 09;TOP 09;456;0,33;-;12
+2;SvobodnÌ;28;Steigerwald Daniel;33;SvobodnÌ;SvobodnÌ;158;0,72;-;-
+2;SvobodnÌ;9;Strachota Ji¯Ì Mgr. CSc.;66;SvobodnÌ;SvobodnÌ;363;1,65;-;-
+9;ZmÏna;23;StrejËek VladimÌr Mgr.;65;ZmÏna;KH;8;0,18;-;-
+23;SZ;7;Stropnick˝ MatÏj PhDr.;30;SZ;SZ;3586;9,46;-;-
+2;SvobodnÌ;14;Strunz Pavel RNDr. CSc.;49;SvobodnÌ;SvobodnÌ;282;1,28;-;-
+13;Suveren.;1;St¯eda Leoö MUDr.;50;Suveren.;BEZPP;55;6,89;-;-
+1;»SSD;2;StupËuk ätÏp·n JUDr.;37;»SSD;»SSD;3209;3,88;*;3
+3;Pir·ti;16;S˘ra Aleö Ing. Bc.;36;Pir·ti;Pir·ti;225;1,05;-;-
+10;Ss»R;8;Svetlik George;62;Ss»R;KONS;18;2,43;-;-
+3;Pir·ti;18;SvÏtniËka Karel Mgr. et Bc.;53;Pir·ti;BEZPP;208;0,97;-;-
+6;ODS;2;Svoboda Bohuslav doc. MUDr. CSc.;69;ODS;ODS;14953;21,24;*;2
+1;»SSD;13;Svoboda Miroslav Ing.;51;»SSD;»SSD;1392;1,68;-;9
+10;Ss»R;2;Svoboda SlavomÌr;58;Ss»R;BEZPP;26;3,52;-;-
+11;KDU-»SL;33;Svoboda Tom·ö PhDr. Bc. Ph.D.;40;KDU-»SL;KDU-»SL;250;0,78;-;32
+2;SvobodnÌ;31;S˝kora Petr Mgr.;28;SvobodnÌ;SvobodnÌ;95;0,43;-;-
+11;KDU-»SL;13;S˝kora Petr Ing.;49;KDU-»SL;KDU-»SL;273;0,85;-;12
+18;DSSS;4;S˝korov· Jana Ing.;45;DSSS;BEZPP;68;2,74;-;-
+18;DSSS;6;Szwachulov· Ivana;51;DSSS;DSSS;52;2,10;-;-
+21;KS»M;25;äafr·nek Ladislav Mgr. Ing. CSc., MBA;67;KS»M;KS»M;311;0,62;-;23
+10;Ss»R;24;äafr·nkov· Milada;45;Ss»R;BEZPP;8;1,08;-;-
+17;⁄svit;1;äarapatka Milan Ing. Mgr. Ph.D.;57;⁄svit;BEZPP;1377;7,34;*;1
+9;ZmÏna;6;äatavov· Monika;49;ZmÏna;KH;77;1,74;-;-
+17;⁄svit;30;äefl Jakub DiS.;25;⁄svit;BEZPP;125;0,66;-;29
+10;Ss»R;30;äefl Ladislav;64;Ss»R;Ss»R;0;0,00;-;-
+17;⁄svit;9;äefl Petr;61;⁄svit;BEZPP;125;0,66;-;8
+11;KDU-»SL;11;äim·Ëek Milan Ing. Bc.;51;KDU-»SL;BEZPP;340;1,06;-;10
+23;SZ;20;äim·Ëkov· LaurenËÌkov· Kl·ra Mgr.;34;SZ;SZ;563;1,48;-;-
+15;SPOZ;19;äÌmov· Michaela Ing.;46;SPOZ;SPOZ;32;0,58;-;-
+21;KS»M;28;äimöa Petr;40;KS»M;KS»M;257;0,51;-;26
+5;HLVZHŸRU;25;äim˘nek Robert;47;HLVZHŸRU;BEZPP;30;1,15;-;-
+21;KS»M;14;äim˘nkov· Lenka;23;KS»M;KS»M;1223;2,44;-;12
+15;SPOZ;12;äim˘nkov· Martina Ing.;49;SPOZ;SPOZ;109;2,00;-;-
+20;ANO 2011;25;äirc Jakub;21;ANO 2011;ANO 2011;513;0,53;-;20
+1;»SSD;7;äkrak Pavol Ing.;62;»SSD;»SSD;411;0,49;-;4
+18;DSSS;22;ämejkal Rudolf;48;DSSS;BEZPP;14;0,56;-;-
+12;PB;20;ämoldas Josef;60;PB;BEZPP;11;0,89;-;-
+18;DSSS;18;ämolÌkov· ä·rka;27;DSSS;DSSS;20;0,80;-;-
+4;TOP 09;33;änajdr Jan Ing.;42;TOP 09;TOP 09;995;0,73;-;26
+12;PB;16;änebergov· Lenka;54;PB;BEZPP;18;1,46;-;-
+12;PB;10;änoblov· Eva Mgr.;57;PB;BEZPP;23;1,87;-;-
+22;LEV 21;7;äolkov· Aneûka;59;LEV 21;LEV 21;4;1,06;-;-
+20;ANO 2011;8;äpaÚhel Ji¯Ì Ing.;63;ANO 2011;ANO 2011;777;0,80;-;3
+17;⁄svit;26;äperling Josef;41;⁄svit;BEZPP;144;0,76;-;25
+20;ANO 2011;18;äpit·lsk· Alena Ing.;61;ANO 2011;ANO 2011;312;0,32;-;13
+1;»SSD;15;äplÌchal Karel PhDr.;66;»SSD;»SSD;2117;2,56;-;11
+2;SvobodnÌ;8;äpoljariË Damir;25;SvobodnÌ;SvobodnÌ;176;0,80;-;-
+24;K»;15;är·mek Ferdinand;44;K»;K»;26;2,15;-;-
+18;DSSS;13;är·mkov· Helena;47;DSSS;BEZPP;42;1,69;-;-
+21;KS»M;26;ätainc Ji¯Ì Mgr.;32;KS»M;KS»M;858;1,71;-;24
+2;SvobodnÌ;26;ätampach Tom·ö Bc.;29;SvobodnÌ;SvobodnÌ;66;0,30;-;-
+5;HLVZHŸRU;19;ätÏp·nkov· Hana;35;HLVZHŸRU;BEZPP;10;0,38;-;-
+22;LEV 21;19;äterzlov· Daniela;40;LEV 21;LEV 21;8;2,12;-;-
+5;HLVZHŸRU;27;ätorek Ji¯Ì;44;HLVZHŸRU;SBB;8;0,30;-;-
+2;SvobodnÌ;27;ätross Pavel Bc.;26;SvobodnÌ;SvobodnÌ;57;0,26;-;-
+18;DSSS;23;äubrt Ji¯Ì;32;DSSS;BEZPP;12;0,48;-;-
+5;HLVZHŸRU;26;äulc Vladimir;48;HLVZHŸRU;SBB;19;0,73;-;-
+21;KS»M;5;äulda LudvÌk BBA;34;KS»M;KS»M;1421;2,84;-;3
+10;Ss»R;15;äupö·k Petr;50;Ss»R;Ss»R;9;1,21;-;-
+6;ODS;18;ävarc Frantiöek;60;ODS;ODS;841;1,19;-;14
+9;ZmÏna;33;äverma Miroslav;29;ZmÏna;BEZPP;6;0,13;-;-
+15;SPOZ;22;Talanda Petr Ing. MBA;50;SPOZ;SPOZ;21;0,38;-;-
+12;PB;35;TerË V·clav;60;PB;BEZPP;6;0,48;-;-
+24;K»;26;Thurzo Ladislav;62;K»;K»;4;0,33;-;-
+23;SZ;15;Tiöer Stanislav;56;SZ;"SRP";630;1,66;-;-
+17;⁄svit;17;Tom·öek P¯emysl Ing.;59;⁄svit;BEZPP;155;0,82;-;16
+22;LEV 21;12;Topinka Petr JUDr.;55;LEV 21;LEV 21;9;2,39;-;-
+11;KDU-»SL;14;TrËkov· Jitka MgA. ak. soch.;68;KDU-»SL;KDU-»SL;324;1,01;-;13
+1;»SSD;8;Trkov· Jana MUDr.;60;»SSD;»SSD;1826;2,20;-;5
+23;SZ;19;Trnka Jan MUDr. Ph.D., M.Phil.;35;SZ;SZ;780;2,05;-;-
+11;KDU-»SL;9;T˘mov· Pavla RNDr. Ph.D.;39;KDU-»SL;KDU-»SL;1104;3,44;-;8
+18;DSSS;35;Uhl·¯ov· Michaela;21;DSSS;BEZPP;12;0,48;-;-
+4;TOP 09;21;Ulm Karel Mgr.;32;TOP 09;TOP 09;1268;0,93;-;14
+4;TOP 09;35;Urban Milan Dr. Ing.;53;TOP 09;TOP 09;873;0,64;-;28
+5;HLVZHŸRU;28;Urbanov· Monika;38;HLVZHŸRU;UNP;11;0,42;-;-
+10;Ss»R;14;Vacek Jaroslav;62;Ss»R;Ss»R;11;1,49;-;-
+1;»SSD;14;V·clavek Miroslav Ing.;58;»SSD;»SSD;1000;1,20;-;10
+15;SPOZ;30;V·clavÌk Pavel Bc.;26;SPOZ;SPOZ;28;0,51;-;-
+15;SPOZ;33;V·clavÌk Pavel;49;SPOZ;SPOZ;3;0,05;-;-
+1;»SSD;21;Vaicov· Marie Ing.;68;»SSD;»SSD;312;0,37;-;17
+22;LEV 21;28;Valentov· Helena;61;LEV 21;BEZPP;3;0,79;-;-
+4;TOP 09;10;Valch·¯ Petr;26;TOP 09;BEZPP;769;0,56;-;3
+20;ANO 2011;2;V·lkov· Helena prof. JUDr. CSc.;62;ANO 2011;BEZPP;4950;5,12;*;2
+12;PB;27;VaÚ·tkov· SvÏtlana;44;PB;BEZPP;6;0,48;-;-
+18;DSSS;24;VanÌËkov· Lenka;47;DSSS;BEZPP;10;0,40;-;-
+4;TOP 09;28;VaöÌËek Jan Ing.;39;TOP 09;TOP 09;648;0,47;-;21
+5;HLVZHŸRU;21;V·vra Josef Ing.;60;HLVZHŸRU;SBB;17;0,65;-;-
+13;Suveren.;13;V·vra VÌtÏzslav;60;Suveren.;BEZPP;8;1,00;-;-
+13;Suveren.;24;Vavroö Jaroslav Ing.;25;Suveren.;BEZPP;2;0,25;-;-
+22;LEV 21;35;VazaË Ji¯Ì;57;LEV 21;BEZPP;1;0,26;-;-
+20;ANO 2011;16;VenclÌËek Petr;29;ANO 2011;ANO 2011;223;0,23;-;11
+20;ANO 2011;28;Vesel· Vladislava JUDr.;29;ANO 2011;ANO 2011;990;1,02;-;23
+3;Pir·ti;5;Veverka Robert;36;Pir·ti;BEZPP;1085;5,08;-;-
+23;SZ;21;Vilgus Petr MgA. Ph.D.;39;SZ;SZ;383;1,01;-;-
+12;PB;11;VilÌm Stanislav;42;PB;BEZPP;12;0,97;-;-
+2;SvobodnÌ;11;Virglerov· FronÈma;26;SvobodnÌ;SvobodnÌ;375;1,71;-;-
+12;PB;28;Viöka Miroslav;46;PB;BEZPP;2;0,16;-;-
+6;ODS;29;VÌtkovsk· Lucie Bc. DiS.;28;ODS;ODS;598;0,84;-;25
+2;SvobodnÌ;18;Vlach Erik;35;SvobodnÌ;SvobodnÌ;53;0,24;-;-
+6;ODS;8;VlËek Daniel Ing.;31;ODS;ODS;1121;1,59;-;5
+4;TOP 09;17;VlËek Stanislav;50;TOP 09;TOP 09;400;0,29;-;10
+15;SPOZ;32;VlËek VÌt JUDr.;55;SPOZ;SPOZ;63;1,16;-;-
+1;»SSD;28;Vod·k B¯etislav Ing.;60;»SSD;»SSD;227;0,27;-;24
+15;SPOZ;18;VodiËka Aleö Ing.;42;SPOZ;SPOZ;11;0,20;-;-
+1;»SSD;24;VohlÌdal Ji¯Ì Ing. Ph.D.;37;»SSD;»SSD;868;1,04;-;20
+5;HLVZHŸRU;14;VojÌkov· VÌtkov· Martina;38;HLVZHŸRU;SBB;32;1,23;-;-
+13;Suveren.;34;VojtÌökov· Andrea;44;Suveren.;BEZPP;5;0,62;-;-
+10;Ss»R;12;Vojtov· Iveta;42;Ss»R;BEZPP;9;1,21;-;-
+18;DSSS;26;VoknÏr Pavel;27;DSSS;BEZPP;14;0,56;-;-
+18;DSSS;17;VoknÏr Petr;24;DSSS;DSSS;19;0,76;-;-
+18;DSSS;34;VoknÏrov· Ji¯ina;49;DSSS;DSSS;34;1,37;-;-
+18;DSSS;14;Voleö·k Tom·ö;57;DSSS;DSSS;14;0,56;-;-
+17;⁄svit;5;Volfov· Andrea Mgr.;45;⁄svit;BEZPP;754;4,01;-;4
+10;Ss»R;19;Volfov· Danuöe;58;Ss»R;BEZPP;8;1,08;-;-
+4;TOP 09;18;VolöÌk Jan MBA;43;TOP 09;TOP 09;385;0,28;-;11
+4;TOP 09;12;Vondra Radek Bc.;41;TOP 09;TOP 09;1032;0,76;-;5
+1;»SSD;31;Vondr·kov· Ji¯ina;62;»SSD;»SSD;339;0,41;-;27
+15;SPOZ;35;Vondr·öek Maty·ö;23;SPOZ;SPOZ;20;0,36;-;-
+15;SPOZ;24;Vondrys Miloslav;55;SPOZ;SPOZ;17;0,31;-;-
+1;»SSD;25;Vor·Ëek Emil PhDr. DrSc.;63;»SSD;»SSD;1080;1,30;-;21
+22;LEV 21;11;Votava P¯emysl;70;LEV 21;LEV 21;11;2,92;-;-
+13;Suveren.;32;Votrubov· Miloslava;64;Suveren.;BEZPP;4;0,50;-;-
+22;LEV 21;20;Vranka Jakub MUDr.;36;LEV 21;LEV 21;8;2,12;-;-
+21;KS»M;34;Vrobel Luk·ö;25;KS»M;KS»M;369;0,73;-;32
+10;Ss»R;32;VrtÌlka Pavel;50;Ss»R;BEZPP;4;0,54;-;-
+10;Ss»R;34;VrtÌlkov· Michaela;30;Ss»R;BEZPP;4;0,54;-;-
+10;Ss»R;27;VrtÌlkov· Ren·ta;51;Ss»R;BEZPP;5;0,67;-;-
+16;OB»_2011;5;Vykysal Jaroslav;37;OB»_2011;OB»_2011;8;1,75;-;-
+3;Pir·ti;2;Wagnerov· Lenka PhDr.;52;Pir·ti;Pir·ti;1439;6,74;-;-
+23;SZ;3;Walek Czeslaw Mgr.;38;SZ;SZ;2449;6,46;-;-
+13;Suveren.;2;Weiszov· Silvia;46;Suveren.;Suveren.;30;3,75;-;-
+20;ANO 2011;31;Wiedermann JanÌËkov· Darina Mgr.;32;ANO 2011;ANO 2011;265;0,27;-;26
+11;KDU-»SL;3;Wolf Jan;41;KDU-»SL;KDU-»SL;1681;5,24;-;6
+18;DSSS;20;Zahr·dkov· Ladislava;53;DSSS;DSSS;16;0,64;-;-
+1;»SSD;19;Zahradnick˝ Tom·ö Ing. Ph.D.;34;»SSD;»SSD;1677;2,02;-;15
+23;SZ;36;Zachari·öov· Lucia JUDr.;31;SZ;SZ;435;1,14;-;-
+1;»SSD;1;Zavadil Jaroslav;69;»SSD;BEZPP;7991;9,66;*;1
+11;KDU-»SL;4;Z·vodsk˝ Ond¯ej JUDr. Ph.D.;33;KDU-»SL;BEZPP;4991;15,57;-;2
+18;DSSS;16;ZbornÌkov· KvÏtoslava;55;DSSS;DSSS;7;0,28;-;-
+5;HLVZHŸRU;2;Zelen˝ Miroslav Ing.;43;HLVZHŸRU;UNP;123;4,74;-;-
+18;DSSS;21;Zeman Josef;48;DSSS;DSSS;16;0,64;-;-
+18;DSSS;11;Zemanov· Alena;44;DSSS;DSSS;23;0,93;-;-
+9;ZmÏna;21;Zicha Ond¯ej MgA.;38;ZmÏna;BEZPP;11;0,24;-;-
+20;ANO 2011;34;ZÌka Ji¯Ì PhDr.;60;ANO 2011;ANO 2011;369;0,38;-;29
+1;»SSD;32;Zikmundov· Eva;58;»SSD;»SSD;606;0,73;-;28
+17;⁄svit;2;Zilvar Jan;48;⁄svit;⁄svit;723;3,85;-;1
+20;ANO 2011;3;Zlatuöka Ji¯Ì prof. RNDr. CSc.;56;ANO 2011;ANO 2011;4820;4,99;*;3
+18;DSSS;36;Zob·nek Roman;41;DSSS;BEZPP;10;0,40;-;-
+5;HLVZHŸRU;1;ZoufalÌk Bohumil Mgr.;45;HLVZHŸRU;BEZPP;233;8,99;-;-
+23;SZ;27;Zubat˝ Jan Ing.;26;SZ;SZ;168;0,44;-;-
+15;SPOZ;1;é·k ZdenÏk Bc.;45;SPOZ;BEZPP;841;15,49;-;-
+17;⁄svit;22;éÌdek VÌtÏzslav Ing.;58;⁄svit;BEZPP;105;0,55;-;21

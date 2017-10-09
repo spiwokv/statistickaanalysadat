@@ -68,10 +68,22 @@ prijmy[order(prijmy[,2]),]
 
 Nyní vše vyzkoušíme na výsledcích voleb do parlamentu 2013 v Praze:
 
+ISO:
 ```R
 ifile <- read.table("https://raw.githubusercontent.com/spiwokv/statistickaanalysadat/master/lookingatdata/volby2013praha.txt",
                     sep=";", header=T, dec=",")
 ```
+Windows:
+```R
+ifile <- read.table("https://raw.githubusercontent.com/spiwokv/statistickaanalysadat/master/lookingatdata/volby2013praha2.txt",
+                    sep=";", header=T, dec=",")
+```
+nebo
+```R
+ifile <- read.table("https://web.vscht.cz/~spiwokv/statistika/volby2013praha.txt",
+                    sep=";", header=T, dec=",")
+```
+
 
 Je možné si vytisknout celý obsah napsáním `ifile`, ale protože se jedná o velký soubor,
 je lepší použít funkce `head` nebo `tail`:
